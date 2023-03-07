@@ -50,7 +50,7 @@ public class VTBTests extends TestBase {
 
     @Test
     @Tag("VTB_tests")
-    @DisplayName("Проверка появляется кнопка отправки сообщения")
+    @DisplayName("Проверка появления кнопки для отправки сообщения")
     void inputButton() {
         String someText = faker.book().title();
 
@@ -82,6 +82,4 @@ public class VTBTests extends TestBase {
             loginPage.themeIsLight();
         });
     }
-
-
 }

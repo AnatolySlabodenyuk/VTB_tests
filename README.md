@@ -12,7 +12,6 @@
 - Запуск тестов (сборка в Jenkins)
 - Allure-отчет
 - Интеграция с Allure TestOps
-- Уведомление в Telegram о результатах прогона тестов
 - Видео пример прохождения тестов
 
 ## :wrench: Технологии и инструменты
@@ -101,6 +100,6 @@ ui_test
 ## <img src="images/logo/Selenoid.svg" width="25" height="25"  alt="Allure"/></a> Пример видео прохождения теста
 ### Тест #4 Проверка входа несущесвующего пользователя
 <p align="center">
-<img title="Selenoid Video" src="images/gifs/video.mp4" width="250" height="153"  alt="videoUItests.mp4"> 
+<img title="Selenoid Video" src="images/gifs/video.gif" width="250" height="153"  alt="videoUItests.mp4"> 
 
 </p>
