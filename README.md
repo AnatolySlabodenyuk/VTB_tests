@@ -100,6 +100,6 @@ ui_test
 ## <img src="images/logo/Selenoid.svg" width="25" height="25"  alt="Allure"/></a> Пример видео прохождения теста
 ### Тест #4 Проверка входа несущесвующего пользователя
 <p align="center">
-<img title="Selenoid Video" src="images/gifs/video.gif" width="250" height="153"  alt="videoUItests.mp4"> 
+<img title="Selenoid Video" src="images/gifs/video.gif" width="1280" height="720"  alt="videoUItests.mp4"> 
 
 </p>
