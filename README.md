@@ -2,7 +2,7 @@
 ### <a target="_blank" href="https://online.vtb.ru/login">Страница авторизации сайта ВТБ</a>
 
 <p align="center">
-<img title="VTB_logo" src="images/screens/сириус курсы.jpg">
+<img title="VTB_logo" src="images/screens/VTB_logo.png">
 </p>
 
 ## :open_file_folder: Содержание:
@@ -101,6 +101,6 @@ ui_test
 ## <img src="images/logo/Selenoid.svg" width="25" height="25"  alt="Allure"/></a> Пример видео прохождения теста
 ### Тест #4 Проверка входа несущесвующего пользователя
 <p align="center">
-<img title="Selenoid Video" src="images/gifs/video.gif" width="250" height="153"  alt="videoUItests.mp4"> 
+<img title="Selenoid Video" src="images/gifs/video.mp4" width="250" height="153"  alt="videoUItests.mp4"> 
 
 </p>
