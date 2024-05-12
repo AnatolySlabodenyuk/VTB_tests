@@ -14,7 +14,7 @@
 - Интеграция с Allure TestOps
 - Видео пример прохождения тестов
 
-## :wrench: Технологии и инструменты
+## :wrench: Технологии и инструменты:
 
 <p align="center">
 <a href="https://www.jetbrains.com/idea/"><img src="images/logo/Idea.svg" width="50" height="50"  alt="IDEA"/></a>
